@@ -15,7 +15,7 @@ import { bootstrapApplication } from '@angular/platform-browser';
   `,
 })
 export class App {
-  name = 'Angular';
+  name = 'Suman';
 }
 
 bootstrapApplication(App);
